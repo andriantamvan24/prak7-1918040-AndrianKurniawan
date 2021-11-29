@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="list_row_start_color">#FFBB86FC</color>
+    <color name="list_row_end_color">#FF6200EE</color>
+    <color name="list_row_hover_start_color">#FF6200EE</color>
+    <color name="list_row_hover_end_color">#FFBB86FC</color>
+    <color name="black">#000000</color>
+</resources>
